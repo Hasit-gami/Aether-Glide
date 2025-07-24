@@ -1,1 +1,1 @@
-
+This is a video game, where you can use the back, up, down, and right buttons to play. The objective is to get the coins and dodge the obstacles. It gets harder over time and there are background sound effects and other effects when you get the coins as well.
